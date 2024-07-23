@@ -1,12 +1,5 @@
 # NewsHub
-News Hub is a dynamic and user-friendly news application built with React. It is fully responsive and makes use of https://newsapi.org to fetch news and render it. 
-
-## Features
-- **Category-Based News**: Browse news articles across multiple categories, including General, Sports, Entertainment, Business, Health, Science, and Technology. Each category has its dedicated section with curated news content.
-- **Search Functionality**: Quickly find news articles related to specific keywords using the search feature. Enter a keyword to view relevant news articles instantly.
-- **Loading Bar**: A responsive loading bar provides visual feedback on data loading progress, enhancing the user experience.
-- **Dynamic Content**: The app dynamically updates the news content based on selected categories or search queries, ensuring users always see the most relevant information.
-- **Image Integration**: Each category is represented by a default image that adds a visual context to the news content.
+News Hub is a dynamic and user-friendly news application built with React.js . It is fully responsive and makes use of https://newsapi.org to fetch news and render it. 
 
 ## Screenshots
 ### Search Result
@@ -26,6 +19,15 @@ News Hub is a dynamic and user-friendly news application built with React. It is
 
 ### Mobile View 1
 ![Mobile View 1](screenshots/mobileView1.png)
+
+## Features
+- **Category-Based News**: Browse news articles across multiple categories, including General, Sports, Entertainment, Business, Health, Science, and Technology. Each category has its dedicated section with curated news content.
+- **Search Functionality**: Quickly find news articles related to specific keywords using the search feature. Enter a keyword to view relevant news articles instantly.
+- **Loading Bar**: A responsive loading bar provides visual feedback on data loading progress, enhancing the user experience.
+- **Dynamic Content**: The app dynamically updates the news content based on selected categories or search queries, ensuring users always see the most relevant information.
+- **Image Integration**: Each category is represented by a default image that adds a visual context to the news content.
+
+
 
 ## Run
 - Install the required dependencies using 'npm install'
