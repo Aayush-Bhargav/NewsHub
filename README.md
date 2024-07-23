@@ -1,5 +1,5 @@
 # NewsHub
-News Hub is a dynamic and user-friendly news application built with React. Designed to keep users updated with the latest news across various categories, this app offers a clean and efficient way to browse and search for news articles. With real-time updates and easy navigation, News Hub ensures that users have quick access to current events and breaking news from around the world.
+News Hub is a dynamic and user-friendly news application built with React. It is fully responsive and makes use of https://newsapi.org to fetch news and render it. 
 
 ## Features
 - **Category-Based News**: Browse news articles across multiple categories, including General, Sports, Entertainment, Business, Health, Science, and Technology. Each category has its dedicated section with curated news content.
@@ -27,6 +27,9 @@ News Hub is a dynamic and user-friendly news application built with React. Desig
 ### Mobile View 1
 ![Mobile View 1](screenshots/mobileView1.png)
 
+## Run
+- Install the required dependencies using 'npm install'
+- Launch the app using 'npm start'
 
 
 
