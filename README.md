@@ -12,8 +12,20 @@ News Hub is a dynamic and user-friendly news application built with React. Desig
 ### Search Result
 ![Search Result](screenshots/searchResult.png)
 
+### Sports Page
+![Sports Page](screenshots/sportsPage.png)
+
 ### Home Page
 ![Home Page](screenshots/homePage.png)
+
+### Search Result Not Found
+![Search Not Found](screenshots/searchNotFound.png)
+
+### Mobile View
+![Mobile View](screenshots/mobileView.png)
+
+### Mobile View 1
+![Mobile View 1](screenshots/mobileView1.png)
 
 
 
