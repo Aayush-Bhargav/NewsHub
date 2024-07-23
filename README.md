@@ -9,7 +9,12 @@ News Hub is a dynamic and user-friendly news application built with React. Desig
 - **Image Integration**: Each category is represented by a default image that adds a visual context to the news content.
 
 ## Screenshots
+### Search Result
+![Search Result](screenshots/searchResult.png)
+
 ### Home Page
 ![Home Page](screenshots/homePage.png)
+
+
 
 
