@@ -37,8 +37,9 @@ News Hub is a dynamic and user-friendly news application built with React.js . I
 
 
 ## Run
-- Install the required dependencies using 'npm install'
-- Launch the app using 'npm start'
+```
+git clone 
+```
 
 
 
