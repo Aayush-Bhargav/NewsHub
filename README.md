@@ -36,7 +36,7 @@ News Hub is a dynamic and user-friendly news application built with React.js . I
 - **Infinite Scroll**: Implements seamless loading of additional content as users scroll down the page, enhancing the browsing experience.
 
 
-## Run
+## Install
 Clone the repo using
 ```
 git clone https://github.com/Aayush-Bhargav/NewsHub.git
@@ -50,7 +50,7 @@ Create a **.env.local** file in the root directory of the project and add your A
 ```
 cp sample.txt .env.local
 ```
-Launch the app:
+## Launch
 ```
 npm start
 ```
