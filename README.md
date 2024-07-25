@@ -1,5 +1,5 @@
 # NewsHub
-News Hub is a dynamic and user-friendly news application built with React.js . It is fully responsive and makes use of https://newsapi.org to fetch news and render it. 
+News Hub is a dynamic and user-friendly news application built with React.js . It is fully responsive and makes use of https://newsapi.org to fetch the hottest and most ground breaking news and renders it. 
 
 ## Screenshots
 ### Search Result
