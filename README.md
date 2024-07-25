@@ -37,8 +37,22 @@ News Hub is a dynamic and user-friendly news application built with React.js . I
 
 
 ## Run
+Clone the repo using
 ```
 git clone https://github.com/Aayush-Bhargav/NewsHub.git
+cd NewsHub
+```
+Install dependencies
+```
+npm install
+```
+Create a **.env.local** file in the root directory of the project and add your API key. You can use the provided **sample.txt** file as a template:
+```
+cp sample.txt .env.local
+```
+Launch the app:
+```
+npm start
 ```
 
 
