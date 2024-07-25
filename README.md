@@ -38,7 +38,7 @@ News Hub is a dynamic and user-friendly news application built with React.js . I
 
 ## Run
 ```
-git clone 
+git clone https://github.com/Aayush-Bhargav/NewsHub.git
 ```
 
 
